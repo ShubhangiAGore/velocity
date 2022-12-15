@@ -11,6 +11,6 @@ public class NewTest {
   driver.manage().window().maximize();
   
   driver.get("https://www.facebook.com/");
-	  
-  }
+ 
+ }
 }
